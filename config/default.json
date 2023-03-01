@@ -1,11 +1,11 @@
 {
   "port": 5000,
   "jwtSecret": "my finances is my fullstack project",
-  "mongoUrl": "mongodb+srv://twitter:oejsMwVhTXFQrWUS@cluster0.9sxpsqn.mongodb.net/?retryWrites=true&w=majority",
+  "mongoUrl": "mongodb+srv://twitter:ZfMu80o0Qje2GwpI@cluster0.lrcavyx.mongodb.net/?retryWrites=true&w=majority",
   "baseUrl": "http://localhost:5000/",
-  "cloud_name": "twitter-clone-rs",
-  "api_key": "962853957875845",
-  "api_secret": "EQBpwzRWjYpf1-8Mz_Aw9S_KyZo"
+  "cloud_name": "dclvcwzrd",
+  "api_key": "495581117236487",
+  "api_secret": "UkEaPBxWOuaMGq-1579yqGHViLw"
 }
 
 
